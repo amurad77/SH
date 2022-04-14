@@ -30,6 +30,7 @@ body {
     padding: 20px;
     position: relative;
     max-width: 840px;
+    /* padding-right: 20px; */
   }
   
   /* Left contact page */
@@ -38,6 +39,7 @@ body {
     max-width: 400px;
     font-family: 'Lato';
     font-weight: 400;
+    padding-right: 20px;
   }
   
   .form-control, 
@@ -75,14 +77,14 @@ body {
   
   /* Begin Right Contact Page */
   .direct-contact-container {
-    max-width: 400px;
+    max-width: 700px;
   }
   
   /* Location, Phone, Email Section */
   .contact-list {
     list-style-type: none;
     margin-left: -30px;
-    padding-right: 20px;
+    /* padding-right: 20px; */
   }
   
   .list-item {
@@ -231,7 +233,7 @@ body {
     
     .direct-contact-container {
       margin-top: 60px;
-      max-width: 280px;
+      max-width: 300px;
     }  
     .social-media-list {
       left: 0;
@@ -287,5 +289,8 @@ body {
     .Topcontact{
         margin-left: 115px;
     }
+
+
+
 
 }
